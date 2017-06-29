@@ -30,4 +30,4 @@ Para descargar todos los modulos adicionales:
 		js.run();		
 	</script>
 ```
-En la carpeta ./test hay ejemplos de como usarla.
+En la carpeta ./test se agregaran ejemplos de como usarlo y diversas pruebas.
